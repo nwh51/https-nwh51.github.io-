@@ -3,7 +3,11 @@ body {
 }
 
 .nwh video{
-  margin-left: 500px;
-  margin-top: 200px;
-  width: 1000px;
+  width: 400px;
+}
+
+.nwh {
+  display: flex;
+  justify-content: center;
+  margin-top:  200px;
 }
