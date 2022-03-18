@@ -3,11 +3,19 @@ body {
 }
 
 .nwh video{
+<<<<<<< HEAD
   width: 400px;
+=======
+     width: 400px;
+>>>>>>> 88363527deb219b1a3dd81c6a1ac5c0bd7daa0ba
 }
 
 .nwh {
   display: flex;
   justify-content: center;
   margin-top:  200px;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 88363527deb219b1a3dd81c6a1ac5c0bd7daa0ba
